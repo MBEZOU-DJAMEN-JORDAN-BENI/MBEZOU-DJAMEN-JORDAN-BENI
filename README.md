@@ -30,4 +30,4 @@ Je suis un étudiant en informatique passionné par la création de systèmes in
 
 ### 📫 Me contacter
 - **Objectif :** Recherche de projets stimulants en Backend et IA.
-- [Ton LinkedIn](Lien_Vers_Ton_LinkedIn) (Optionnel)
+- [Ton LinkedIn](https://www.linkedin.com/in/jordan-md-a7b9433a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
