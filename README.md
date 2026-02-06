@@ -24,7 +24,7 @@ Je suis un étudiant en informatique passionné par la création de systèmes in
 ---
 
 ### 📈 Mes Statistiques GitHub
-![Stats de Jordan](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=radical)
+![Stats de Jordan](https://github-readme-stats.vercel.app/api?username=Jordan-MD&show_icons=true&theme=radical)
 
 ---
 
