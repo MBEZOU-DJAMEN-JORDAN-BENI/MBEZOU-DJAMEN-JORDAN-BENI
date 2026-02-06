@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Salut, moi c'est Jordan Beni (Bedane MD)
+# 👋 Salut, moi c'est Jordan Beni (Jordan MD)
 
 ### 🚀 Futur Expert en Intelligence Artificielle | Développeur Backend
 Je suis un étudiant en informatique passionné par la création de systèmes intelligents qui simplifient la vie quotidienne. Actuellement focalisé sur la construction d'architectures backend robustes et l'intégration de modèles d'IA.
